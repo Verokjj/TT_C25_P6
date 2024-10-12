@@ -14,3 +14,5 @@ Análisis Exploratorio de Datos (EDA): Los usuarios pueden realizar un análisis
 * Visualizaciones Atractivas: Utilizando Plotly Express, la aplicación presenta gráficos interactivos que pueden ser manipulados por los usuarios, lo que les permite profundizar en los datos de una manera visualmente atractiva.
 
 En resumen, esta aplicación web es una herramienta útil para aquellos interesados en el análisis de datos, facilitando la comprensión de la información relacionada con la venta de coches a través de visualizaciones interactivas y atractivas.
+
+Limk: https://tt-c25-p6-ymfy.onrender.com
